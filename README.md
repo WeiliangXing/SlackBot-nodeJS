@@ -1,2 +1,1 @@
-# googleMap-MEAN
-MEAN stack for google Map 
+# Slack Bot with Node.js
