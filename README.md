@@ -9,3 +9,6 @@ Steps:
  Please see in instruction file: Instruction.md
  To run it, provide API key of the bot and doing this below:
  $ set BOT_API_KEY=your_api_key & node bin/bot.js
+
+
+ issue: show bot's message indefinitely; reason occus in _isFromNorrisBot() that this.user.id and message.user always not equal. Debugging...
